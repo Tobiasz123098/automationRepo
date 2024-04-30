@@ -1,1 +1,1 @@
-Tutaj jest przykładowe READM
+Tutaj jest przykładowe README
